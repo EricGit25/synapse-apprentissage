@@ -1,0 +1,19 @@
+{
+  "name": "Synapse — Apprentissage et communication",
+  "short_name": "Synapse",
+  "description": "Défis pour mieux comprendre, organiser et expliquer.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091b24",
+  "theme_color": "#102b37",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
